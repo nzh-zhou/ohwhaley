@@ -2,3 +2,4 @@
 ^ohwhaley\.Rproj$
 ^docs$
 ^pkgdown$
+^\.Rproj\.user$
