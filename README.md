@@ -11,7 +11,7 @@ Whale-come! This R package was inspired by
 [praise](https://github.com/rladies/praise). I hope this package made
 you smile today!
 
-## First things first
+## First thing’s first
 
 `ohwhaley` is a toy project and is still under development. You can
 install the latest version from [GitHub](https://github.com/) with:
@@ -32,7 +32,7 @@ library(ohwhaley)
 say() 
 #> 
 #>             ------ 
-#>            Everything whale be alright! 
+#>            I'm having a whale of a time! 
 #>             ------ 
 #>                \   
 #>                 \  

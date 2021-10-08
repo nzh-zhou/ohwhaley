@@ -27,7 +27,7 @@ library(badger)
 
 Whale-come! This R package was inspired by [cowsay](https://github.com/sckott/cowsay) and [praise](https://github.com/rladies/praise). I hope this package made you smile today! 
 
-## First things first
+## First thing's first
 
 `ohwhaley` is a toy project and is still under development. You can install the latest version from [GitHub](https://github.com/) with:
 
